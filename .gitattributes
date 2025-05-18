@@ -1,1 +1,2 @@
 *.czi filter=lfs diff=lfs merge=lfs -text
+Polarization_analysis_test_data/NR4A_confocal/*.czi filter=lfs diff=lfs merge=lfs -text
